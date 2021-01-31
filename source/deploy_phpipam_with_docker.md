@@ -1,4 +1,11 @@
-##　実践で学ぶ：docker-composeの定義を読みながらphpipamを配備しよう
+---
+title: 実践で学ぶ：docker-composeの定義を読みながらphpipamを配備しよう
+date: 2021-01-31
+tags: ["docker", "勉強帳"]
+excerpt: 業務効率化のため、phpipamのサービスを構築しようと思います。docker環境でphpipadmを配備する手順を記録します。
+---
+
+##　
 
 ### 目的
 docker環境でphpipadmを配備する手順を記録します。
