@@ -210,25 +210,25 @@ Starting phpiam_phpipam-cron_1    ... done
 サービス起動が完了したが、実際に使用する前に、データベースの作成やログインパスワードの設定が必要となります。
 
 1. 最初のガイドページで、新規インストールを選択します。
-![新規インストール](./deploy_phpipam_with_docker_images/01_initial_setup.png)
+![新規インストール](/deploy_phpipam_with_docker/01_initial_setup.png)
 
 1. 自動的にデータベースを作成する方式選択します。
-![DBの自動設定](./deploy_phpipam_with_docker_images/02_New_ipam_install.png)
+![DBの自動設定](deploy_phpipam_with_docker/02_New_ipam_install.png)
 
 1. 必要な情報を入力し、データベースの作成を実施します。
-![DB作成情報入力](./deploy_phpipam_with_docker_images/03_create_database.png)
+![DB作成情報入力](deploy_phpipam_with_docker/03_create_database.png)
 
 1. WebGUIログイン情報を設定します。
-![ログイン情報入力](./deploy_phpipam_with_docker_images/04_login_and_page_title.png)
+![ログイン情報入力](deploy_phpipam_with_docker/04_login_and_page_title.png)
 
 1. 設定情報を保存し、ウェブログイン画面に移動します。
-![ログイン画面に移動](./deploy_phpipam_with_docker_images/05_preceed_to_login.png)
+![ログイン画面に移動](deploy_phpipam_with_docker/05_preceed_to_login.png)
 
 1. WebGUIログイン画面で先ほど設定されたユーザパスワードでログインします。
-![ウェブログイン画面](./deploy_phpipam_with_docker_images/06_login_page.png)
+![ウェブログイン画面](deploy_phpipam_with_docker/06_login_page.png)
 
 1. ログインできたら、ダッシュボードが表示します。
-![ダッシュボードへようこそ](./deploy_phpipam_with_docker_images/07_welcome_to_dashboard.png)
+![ダッシュボードへようこそ](deploy_phpipam_with_docker/07_welcome_to_dashboard.png)
 
 ###　最後に
 
